@@ -1,0 +1,265 @@
+{
+  "bengaluru": [
+    {
+      "id": "blr-t-1",
+      "name": "Airport Premium Transfer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn4mI3thQXsE59S5XwkaASFnyePB0qX9PcMQ&s",
+      "price": "$40/trip",
+      "rating": 4.7,
+      "type": "transfer",
+      "description": "Luxury airport transfers in premium sedans",
+      "coordinates": {
+        "lat": 13.1989,
+        "lng": 77.7068
+      }
+    },
+    {
+      "id": "blr-t-2",
+      "name": "City Day Tour Service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq8STTIRF4yjoijCUJqt0pNJmBPOya42ICyA&s",
+      "price": "$80/day",
+      "rating": 4.6,
+      "type": "tour",
+      "description": "Customizable city tours with professional driver",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      }
+    },
+    {
+      "id": "blr-t-3",
+      "name": "Weekend Getaway Transport",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73yXTf6tZPVRI0ACGqGKd_YcuENcMmuIHfw&s",
+      "price": "$120/day",
+      "rating": 4.8,
+      "type": "tour",
+      "description": "Transport for Mysore, Coorg, and other nearby destinations",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      }
+    },
+    {
+      "id": "blr-t-4",
+      "name": "Luxury Van Service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmVVSlvdexhTcX3j38hEQarm5w0ZY_OhwTg&s",
+      "price": "$150/day",
+      "rating": 4.9,
+      "type": "group",
+      "description": "Group transport in luxury vans with amenities",
+      "coordinates": {
+        "lat": 12.9716,
+        "lng": 77.5946
+      }
+    }
+  ],
+  "hyderabad": [
+    {
+      "id": "hyd-t-1",
+      "name": "Heritage Sites Tour",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9jhkTwNP8sMZkKoDPxwc56kve5hSEq-vqLw&s",
+      "price": "$50/day",
+      "rating": 4.5,
+      "type": "tour",
+      "description": "Visit all major heritage sites with expert guide",
+      "coordinates": {
+        "lat": 17.3850,
+        "lng": 78.4867
+      }
+    },
+    {
+      "id": "hyd-t-2",
+      "name": "Airport Luxury Transfer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfefvmnNlGWh7XRVEQpJsKjPcZuxyfxjAeLw&s",
+      "price": "$45/trip",
+      "rating": 4.7,
+      "type": "transfer",
+      "description": "Premium airport transfers with meet and greet",
+      "coordinates": {
+        "lat": 17.2403,
+        "lng": 78.4294
+      }
+    },
+    {
+      "id": "hyd-t-3",
+      "name": "Group Sightseeing Tour",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXtAou9fNBUg35UPfir7B3jMQ5x5wCZwZ_Wg&s",
+      "price": "$35/person",
+      "rating": 4.6,
+      "type": "group",
+      "description": "Shared sightseeing tours of major attractions",
+      "coordinates": {
+        "lat": 17.3850,
+        "lng": 78.4867
+      }
+    },
+    {
+      "id": "hyd-t-4",
+      "name": "Corporate Transport Service",
+      "image": "https://ik.imagekit.io/wx5dqb8qkk/service/service-1699034740012.jpg?tr=w-700",
+      "price": "$100/day",
+      "rating": 4.8,
+      "type": "business",
+      "description": "Professional transport for business travelers",
+      "coordinates": {
+        "lat": 17.4456,
+        "lng": 78.3812
+      }
+    }
+  ],
+  "kolkata": [
+    {
+      "id": "kol-t-1",
+      "name": "Airport Luxury Transfer",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9NFEV3yBtjN1lBjiOFyQbPmXw4DuJQGaIg&s",
+      "price": "$40/trip",
+      "rating": 4.7,
+      "type": "transfer",
+      "description": "Premium sedans for seamless airport transfers",
+      "coordinates": {
+        "lat": 22.6452,
+        "lng": 88.4483
+      }
+    },
+    {
+      "id": "kol-t-2",
+      "name": "City Tour Cab Service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXunx8r8ztRLtHY2cbMGYXeJmOHHU1BjYQw&s",
+      "price": "$50/day",
+      "rating": 4.6,
+      "type": "tour",
+      "description": "Explore Kolkata's iconic landmarks comfortably",
+      "coordinates": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      }
+    },
+    {
+      "id": "kol-t-3",
+      "name": "Luxury Van Hire",
+      "image": "https://www.onlinebusbookingindia.com/uploads/18679_hqdefault.jpg",
+      "price": "$120/day",
+      "rating": 4.8,
+      "type": "group",
+      "description": "Spacious vans for group travel",
+      "coordinates": {
+        "lat": 22.5726,
+        "lng": 88.3639
+      }
+    }
+  ],
+  "delhi": [
+    {
+      "id": "del-t-1",
+      "name": "Heritage Site Day Tour",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu5ZzYHGXW_5qoeS92VOsBJIXrbjp2jM8C6g&s",
+      "price": "$60/day",
+      "rating": 4.7,
+      "type": "tour",
+      "description": "Visit iconic spots like India Gate and Qutub Minar",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      }
+    },
+    {
+      "id": "del-t-2",
+      "name": "Corporate Transfers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6od7T6XHEmKAO3TDjtoKTX16D115FPAooUA&s",
+      "price": "$90/day",
+      "rating": 4.8,
+      "type": "business",
+      "description": "Comfortable sedans for business travelers",
+      "coordinates": {
+        "lat": 28.6139,
+        "lng": 77.2090
+      }
+    }
+  ],
+  "mumbai": [
+    {
+      "id": "mum-t-1",
+      "name": "City Landmark Tour",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmC4QBjHYJri4PpsiEEhZbafMEdX3__z_ECw&s",
+      "price": "$70/day",
+      "rating": 4.6,
+      "type": "tour",
+      "description": "Tour Mumbai’s attractions like Gateway of India",
+      "coordinates": {
+        "lat": 19.0760,
+        "lng": 72.8777
+      }
+    },
+    {
+      "id": "mum-t-2",
+      "name": "Airport Transfer Service",
+      "image": "https://saiexpresstravels.com/uploads/page-images/1705735882_36.jpg",
+      "price": "$50/trip",
+      "rating": 4.7,
+      "type": "transfer",
+      "description": "Luxury cars for convenient airport transfers",
+      "coordinates": {
+        "lat": 19.0896,
+        "lng": 72.8656
+      }
+    }
+  ],
+  "chennai": [
+    {
+      "id": "che-t-1",
+      "name": "Marina Beach Tour",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVaDAtB_hIyLPQ-9MhdJsWmvegY2TJnDqHig&s",
+      "price": "$45/day",
+      "rating": 4.5,
+      "type": "tour",
+      "description": "Explore Chennai’s scenic Marina Beach",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      }
+    },
+    {
+      "id": "che-t-2",
+      "name": "Airport Transfer Service",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdmM3Jy_WK8yZ-J1tNkHXCdlaw0qNozJQRCQ&s",
+      "price": "$30/trip",
+      "rating": 4.6,
+      "type": "transfer",
+      "description": "Affordable airport transfers",
+      "coordinates": {
+        "lat": 13.0827,
+        "lng": 80.2707
+      }
+    }
+  ],
+  "goa": [
+    {
+      "id": "goa-t-1",
+      "name": "Beachside Transfers",
+      "image": "https://c8.alamy.com/comp/ET10EB/ferry-boat-crossing-river-mandovi-at-velha-goa-india-ET10EB.jpg",
+      "price": "$50/trip",
+      "rating": 4.8,
+      "type": "transfer",
+      "description": "Transport to Goa's stunning beaches",
+      "coordinates": {
+        "lat": 15.2993,
+        "lng": 74.1240
+      }
+    }
+  ],
+  "agra": [
+    {
+      "id": "agr-t-1",
+      "name": "Taj Mahal Day Tour",
+      "image": "https://media.tacdn.com/media/attractions-splice-spp-674x446/06/6c/2b/f2.jpg",
+      "price": "$60/day",
+      "rating": 4.9,
+      "type": "tour",
+      "description": "Full day tour to the Taj Mahal and Agra Fort",
+      "coordinates": {
+        "lat": 27.1751,
+        "lng": 78.0421
+      }
+    }
+  ]
+}
